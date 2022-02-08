@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bondens sjakkspill</string>
+    <string name="title">Bondens sjakkspill</string>
+    <string name="start_game">Start spill</string>
+    <string name="about">om</string>
+    <string name="settings">Innstillinger</string>
+    <string name="exit">Utgang</string>
+    <string name="about_myself">Jeg er Sharmila</string>
+    <string name="about_myself_2">Jeg er Sharmila</string>
+    <string name="about_developer">Om utvikler</string>
+    <string name="back">Tilbake</string>
+    <string name="reset">Nullstille</string>
+    <string name="time">"Tid: "</string>
+    <string name="no_moves_x">"Antall trekk X: "</string>
+    <string name="no_moves_o">"Antall trekk O: "</string>
+    <string name="next_move">"Neste trekk: "</string>
+    <string name="select_option">Velg ett alternativ</string>
+</resources>
